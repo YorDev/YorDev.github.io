@@ -1568,6 +1568,17 @@ img.badge_icon.small {
 	font-size: 18px;
 	line-height: 16px;
 }
+/* Status */
+
+.status{
+	color: rgb(0, 228, 11);
+}
+
+.status-game{
+	font-size: large;
+	margin-top: -0.3vh;
+	color: rgb(0, 228, 11);
+}
 
 /* Game cards */
 
