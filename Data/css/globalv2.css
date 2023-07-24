@@ -717,9 +717,9 @@ a.commentthread_allcommentslink:hover {
 	display: block;
 }
 
-.commentthread_comment.commentthread_newcomment {
+/* .commentthread_comment.commentthread_newcomment {
 
-}
+} */
 
 .commentthread_comment_avatar {
 	position: absolute;
@@ -1471,6 +1471,7 @@ img.emoticon {
 
 	html.responsive .responsive_tab_ctn.sharedfiles_responsive_tab .responsive_tab_control select {
 		width: 98%;
+		appearance: none;
 		-webkit-appearance: none;
 		background-image: url( 'https://community.akamai.steamstatic.com/public/images/mobile/dropdown_30.png' );
 		background-repeat: no-repeat;
@@ -1540,6 +1541,7 @@ img.emoticon {
 	}
 	html.responsive .responsive_tab_ctn.sharedfiles_responsive_tab .responsive_tab_control select {
 		width: 98%;
+		appearance: none;
 		-webkit-appearance: none;
 		background-image: url( 'https://community.akamai.steamstatic.com/public/images/mobile/dropdown_30.png' );
 		background-repeat: no-repeat;
